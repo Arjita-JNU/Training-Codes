@@ -1,0 +1,4 @@
+C:\GitHub\GenericsImplementatiom\NegativeNumberException\bin\Debug\NegativeNumberException.dll
+C:\GitHub\GenericsImplementatiom\NegativeNumberException\bin\Debug\NegativeNumberException.pdb
+C:\GitHub\GenericsImplementatiom\NegativeNumberException\obj\Debug\NegativeNumberException.dll
+C:\GitHub\GenericsImplementatiom\NegativeNumberException\obj\Debug\NegativeNumberException.pdb

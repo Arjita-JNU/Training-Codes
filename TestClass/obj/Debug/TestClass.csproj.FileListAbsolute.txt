@@ -1,0 +1,9 @@
+C:\GitHub\GenericsImplementatiom\TestClass\bin\Debug\TestClass.dll
+C:\GitHub\GenericsImplementatiom\TestClass\bin\Debug\TestClass.pdb
+C:\GitHub\GenericsImplementatiom\TestClass\bin\Debug\GenericsImplementatiom.exe
+C:\GitHub\GenericsImplementatiom\TestClass\bin\Debug\GenericsImplementatiom.pdb
+C:\GitHub\GenericsImplementatiom\TestClass\obj\Debug\TestClass.csprojResolveAssemblyReference.cache
+C:\GitHub\GenericsImplementatiom\TestClass\obj\Debug\TestClass.dll
+C:\GitHub\GenericsImplementatiom\TestClass\obj\Debug\TestClass.pdb
+C:\GitHub\GenericsImplementatiom\TestClass\bin\Debug\NegativeNumberException.dll
+C:\GitHub\GenericsImplementatiom\TestClass\bin\Debug\NegativeNumberException.pdb

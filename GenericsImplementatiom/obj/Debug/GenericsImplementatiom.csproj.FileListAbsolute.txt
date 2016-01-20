@@ -1,0 +1,8 @@
+C:\GitHub\GenericsImplementatiom\GenericsImplementatiom\bin\Debug\GenericsImplementatiom.exe.config
+C:\GitHub\GenericsImplementatiom\GenericsImplementatiom\bin\Debug\GenericsImplementatiom.exe
+C:\GitHub\GenericsImplementatiom\GenericsImplementatiom\bin\Debug\GenericsImplementatiom.pdb
+C:\GitHub\GenericsImplementatiom\GenericsImplementatiom\obj\Debug\GenericsImplementatiom.csprojResolveAssemblyReference.cache
+C:\GitHub\GenericsImplementatiom\GenericsImplementatiom\obj\Debug\GenericsImplementatiom.exe
+C:\GitHub\GenericsImplementatiom\GenericsImplementatiom\obj\Debug\GenericsImplementatiom.pdb
+C:\GitHub\GenericsImplementatiom\GenericsImplementatiom\bin\Debug\NegativeNumberException.dll
+C:\GitHub\GenericsImplementatiom\GenericsImplementatiom\bin\Debug\NegativeNumberException.pdb
